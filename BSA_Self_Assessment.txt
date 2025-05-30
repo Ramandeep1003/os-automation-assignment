@@ -1,0 +1,34 @@
+# BSA Self Assessment - OS Automation Assignment
+Name: Ramandeep Singh
+Student ID: [1000117882]
+Course: IA616001 Operating Systems Concepts
+Lecturer: [Dr Sonia Gul]
+
+## Task 1: User Creation Automation
+- Implemented the shell script to read users from CSV and create Linux users.
+- Handled sudo group assignments and home directory setup.
+- Verified by adding test users (e.g., linus.torvalds, ada.lovelace, raman).
+
+## Task 2: Backup Script Automation
+- Developed interactive shell script to create `.tar.gz` backups of user-specified directories.
+- Script handles directory creation, error checking, and output logs.
+
+## Git & Version Control
+- Set up Git repository at: https://github.com/Ramandeep1003/os-automation-assignment
+- Used branches for feature updates (e.g., add-new-user).
+- Final version pushed to `main`.
+
+## Reflection
+- This assignment helped me understand Linux user management, permission handling, and scripting automation.
+- Learned how to use Git for version control and GitHub for collaboration.
+- Improved skills in Bash scripting and troubleshooting permission issues.
+
+## Challenges
+- Faced permission errors writing to `/var/log/` and resolved them with `sudo`.
+- Learned to manage Git branches and push changes properly.
+
+## Conclusion
+I believe I have met all the criteria of the assignment. All tasks are functional and documented in the README.md file.
+
+Signature: Ramandeep Singh
+Date: [30/05/2025]
